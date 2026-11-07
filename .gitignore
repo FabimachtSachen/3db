@@ -1,0 +1,47 @@
+﻿# Dependencies and build output
+node_modules/
+dist/
+target/
+src-tauri/target/
+src-tauri/gen/
+coverage/
+*.tsbuildinfo
+
+# Local development
+.env
+.env.*
+!.env.example
+.vs/
+.vscode/
+.idea/
+.venv/
+__pycache__/
+*.pyc
+*.log
+*.bak
+*.tmp
+
+# Local project data and backups
+*.db
+*.sqlite
+*.sqlite3
+*.db-wal
+*.db-shm
+*.sqlite-wal
+*.sqlite-shm
+release-backup/
+backups/
+audit*-reports/
+
+# Packaged binaries and historical archives
+*.exe
+*.msi
+*.zip
+*.7z
+*.vhd
+*.vhdx
+
+# Operating system
+.DS_Store
+Thumbs.db
+desktop.ini
