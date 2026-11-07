@@ -8,6 +8,18 @@ Keep your models, print files, images, documents, variants, and project versions
 
 [Deutsche Dokumentation](README.de.md)
 
+<p align="center">
+  <img src="screenshots/3db-logo.png" alt="3db logo" width="160">
+</p>
+
+## Screenshots
+
+### Dashboard
+![3db dashboard](screenshots/dashboard.png)
+
+### Project details, variants and versioning
+![3db project details](screenshots/project-details.png)
+
 ## Features
 
 - Create, edit, archive, and organize projects

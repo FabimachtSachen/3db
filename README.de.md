@@ -8,6 +8,18 @@ Modelle, Druckdateien, Bilder, Dokumente, Projektvarianten und Versionen werden 
 
 [English documentation](README.md)
 
+<p align="center">
+  <img src="screenshots/3db-logo.png" alt="3db-Logo" width="160">
+</p>
+
+## Screenshots
+
+### Dashboard
+![3db Dashboard](screenshots/dashboard.png)
+
+### Projektdetails, Varianten und Versionierung
+![3db Projektdetails](screenshots/project-details.png)
+
 ## Funktionen
 
 - Projekte anlegen, bearbeiten und archivieren
